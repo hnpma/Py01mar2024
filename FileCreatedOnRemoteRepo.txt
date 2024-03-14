@@ -1,0 +1,3 @@
+At 3:36 AM on Thursday the 3/14/2024, I created a new text file named "FileCreatedOnRemoteRepo.txt"
+on the remote repository named Py01mar2024 !
+I will pull it from my LOCAL repository of the SAME NAME on my laptop.
