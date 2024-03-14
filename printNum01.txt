@@ -1,0 +1,11 @@
+'''
+Py01mar2024Branch01    4:36 AM 3/14/2024 Thursday
+Program to print an integers given by user using Python.
+'''
+number = int(input("Enter a positive integer : "))
+print("The number you have entered is:\t "+str (number))
+
+
+
+
+
